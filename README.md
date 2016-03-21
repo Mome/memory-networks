@@ -1,4 +1,4 @@
-# memory-networks
+# Memory Networks
 
 This project aims to reproduce the results of :
 
