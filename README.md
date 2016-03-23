@@ -6,13 +6,11 @@ Weston, Jason, Sumit Chopra, and Antoine Bordes. "Memory networks." arXiv prepri
 
 link: http://arxiv.org/pdf/1410.3916v11.pdf
 
----
 
 ![Memory Network general structure graph](https://www.dropbox.com/s/nrurp33pzkvy8eu/memn_structure.svg?dl=1)
 
----
 
-You can download the data here: https://www.dropbox.com/s/q1u846xlit7w7ty/answers.wikia.p?dl=0
+You can download the data here: https://www.dropbox.com/s/q1u846xlit7w7ty/answers.wikia.p?dl=1
 
 * put the corpusfile in a new folder
 * run main.load_configuration() once, this will create a configration file: memory-networks.cfg
