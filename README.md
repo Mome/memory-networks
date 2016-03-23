@@ -9,6 +9,7 @@ link: http://arxiv.org/pdf/1410.3916v11.pdf
 ---
 
 ![Memory Network general structure graph](https://github.com/Mome/memory-networks/blob/master/memn_structure.svg)
+<img src="https://github.com/Mome/memory-networks/blob/master/memn_structure.svg">
 
 ---
 
