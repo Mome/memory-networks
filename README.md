@@ -8,7 +8,7 @@ link: http://arxiv.org/pdf/1410.3916v11.pdf
 
 ---
 
-![Memory Network general structure graph](https://www.dropbox.com/s/nrurp33pzkvy8eu/memn_structure.svg?dl=0)
+![Memory Network general structure graph](http://www.dropbox.com/s/nrurp33pzkvy8eu/memn_structure.svg?dl=0)
 
 ---
 
