@@ -28,15 +28,12 @@ def load_qas(path):
     path = expanduser(path)
 
     if isdir(path):
-        filelist = [join(path, filename) for filename in listdir(path)]
+        filelist = [join(path, filename) for filename in listdir(path) if not filename.startswith('.')]
     else:
         filelist = [path]
 
     qas = [] # stands for questions and answers ...
     for filepath in filelist:
-
-        if filepath.startswith('.'):
-            continue
 
         with open(filepath, 'rb') as f:
             new_qas = pickle.load(f)
